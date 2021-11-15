@@ -29,6 +29,6 @@ memoized-property
 termcolor
 
 # url
-pip install git+ssh://git@github.com/OscarTou/OscarPackage
-pip install git+ssh://git@github.com/PierreLouis98/monPackage
-pip install git+ssh://git@github.com/Nietchev/cosme_package
+#pip install git+ssh://git@github.com/OscarTou/OscarPackage
+#pip install git+ssh://git@github.com/PierreLouis98/monPackage
+#pip install git+ssh://git@github.com/Nietchev/cosme_package
